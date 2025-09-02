@@ -1,2 +1,3 @@
 # CSIT121
-Class Repository
+My first repository for Web Standards
+
