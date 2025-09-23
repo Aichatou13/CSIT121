@@ -1,0 +1,20 @@
+hr  {
+    border-color: black
+}
+
+h1  {
+    text-align: center;
+    color: white;
+    background-color: (77, 182, 164);
+    font-size: 80px;
+    font-variant: small-caps;
+}
+
+h2  {
+    color: white;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 50px;
+}
+
+section {font-size: 15px}
